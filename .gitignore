@@ -1,3 +1,6 @@
+out/
+dist/
+cache/
 allFiredEvents
 .build-temp
 build
